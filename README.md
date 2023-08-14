@@ -2,7 +2,7 @@
 🌱 I am currently engaged in web development<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinjinzala)](https://velog.io/@jinjinzala) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinjinzala&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=jinjinzala&tag=프로그래머스)
