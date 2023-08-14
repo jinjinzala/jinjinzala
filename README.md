@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jinjinzala/jinjinzala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +30,6 @@ I am currently engaged in web development<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jinjinzala&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=jinjinzala&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
