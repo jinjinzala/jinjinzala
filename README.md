@@ -33,12 +33,6 @@ I am currently engaged in web development<br>
 ![](https://github-profile-trophy.vercel.app/?username=jinjinzala&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 🐍 My Contributions 🐍
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
