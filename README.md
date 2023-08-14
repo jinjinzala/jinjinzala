@@ -32,13 +32,13 @@ I am currently engaged in web development<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jinjinzala&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+
+## 🐍 My Contributions 🐍
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
