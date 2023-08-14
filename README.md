@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 My name is Hee jin Kim! :
+# 💫 Hee jin Kim :
 🌱 I am currently engaged in web development<br>
 
 
