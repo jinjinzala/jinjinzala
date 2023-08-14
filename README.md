@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently engaged in web development<br>
+🌱 I am currently engaged in web development<br>
 
 
 ## 🌐 Socials:
