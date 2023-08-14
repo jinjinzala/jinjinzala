@@ -20,6 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=jinjinzala&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+![Contributions Snake](https://github.com/<jinjinzala>/<jinjinzala>/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
