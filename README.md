@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🧑‍💻 Hello, I'm Hee Jin Kim
+  # 🧑‍💻 Hello, I'm Riley
   **`Web Developer` | `Java & Spring Enthusiast` | `Continuous Learner`**
   
   <br>
