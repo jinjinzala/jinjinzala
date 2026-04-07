@@ -128,35 +128,3 @@
   *Feel free to reach out for collaboration or just a friendly chat* 😊
 
 </div>
-🐍 Snake 애니메이션 설정
-Snake 기여도 애니메이션을 활성화하려면 워크플로우 파일을 추가해야 합니다!
-
-파일 경로: .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: jinjinzala
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: $${{ secrets.GITHUB_TOKEN }}
